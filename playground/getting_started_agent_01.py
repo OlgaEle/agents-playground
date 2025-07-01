@@ -1,3 +1,5 @@
+# 🔍 Just an agent that is moving around without reason — it randomly picks a direction and takes one step on the grid
+
 # Import libraries
 import numpy as np
 import random
