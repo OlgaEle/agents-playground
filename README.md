@@ -1,4 +1,4 @@
-# 🧠 Agents Playground
+# 🤖 Agents Playground
 
 Welcome to my little **Agents Playground** — a space where I experiment, learn, and have fun with different kinds of agents!
 
